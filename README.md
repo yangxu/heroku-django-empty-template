@@ -12,7 +12,7 @@ $ heroku login
 Enter your Heroku credentials.
 Email: youremail@example.com
 Password:
-Uploading ssh public key /Users/joe/.ssh/id_rsa.pub
+Uploading ssh public key /Users/youremail/.ssh/id_rsa.pub
 ```
 ```
 $ virtualenv ENV
