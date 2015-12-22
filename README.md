@@ -104,5 +104,8 @@ Installing custom SQL ...
 Installing indexes ...
 Installed 0 object(s) from 0 fixture(s)
 ```
-
+Web
+=============
+```
 http://<app-name>.herokuapp.com
+```
