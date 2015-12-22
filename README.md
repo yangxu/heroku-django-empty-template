@@ -1,3 +1,6 @@
+Give blank django template to start with you project
+Django 1.9
+
 ```
 $ heroku --version
 heroku-toolbelt/3.42.25 (x86_64-linux) ruby/1.9.3
@@ -100,3 +103,5 @@ Installing custom SQL ...
 Installing indexes ...
 Installed 0 object(s) from 0 fixture(s)
 ```
+
+http://<app-name>.herokuapp.com
