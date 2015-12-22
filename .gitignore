@@ -1,0 +1,13 @@
+ENV
+*.pyc
+collectstaticfiles
+*.db
+*.swp
+*.log
+*~
+*.sqlite3
+*.vagrant
+app/local_settings.py
+local_settings.py
+app/media/
+app/static/
